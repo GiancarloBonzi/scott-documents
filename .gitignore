@@ -14,5 +14,5 @@
 !drawings*.pdf.txt
 
 # Pictures of one page
-!public_notice*.pdf.jpg
-!drawings*.pdf.jpg
+#!public_notice*.pdf.jpg
+#!drawings*.pdf.jpg
