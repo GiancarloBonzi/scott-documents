@@ -1,0 +1,11 @@
+# Ignore everything with some exceptions
+*/*
+
+# 
+!public_notice.pdf
+!public_notice*.pdf.md5
+!public_notice*.pdf.txt
+
+!drawings*.pdf
+!drawings*.pdf.md5
+!drawings*.pdf.txt
