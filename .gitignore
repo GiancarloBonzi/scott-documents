@@ -10,8 +10,8 @@
 !drawings*.pdf.md5
 
 # Text versions
-!public_notice*.pdf.txt
-!drawings*.pdf.txt
+#!public_notice*.pdf.txt
+#!drawings*.pdf.txt
 
 # Pictures of one page
 #!public_notice*.pdf.jpg
