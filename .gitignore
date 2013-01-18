@@ -1,11 +1,18 @@
 # Ignore everything with some exceptions
 */*
 
-# 
-!public_notice.pdf
-!public_notice*.pdf.md5
-!public_notice*.pdf.txt
-
+# Raw files and links
+!public_notice*.pdf
 !drawings*.pdf
+
+# Md5sums
+!public_notice*.pdf.md5
 !drawings*.pdf.md5
+
+# Text versions
+!public_notice*.pdf.txt
 !drawings*.pdf.txt
+
+# Pictures of one page
+!public_notice*.pdf.jpg
+!drawings*.pdf.jpg
