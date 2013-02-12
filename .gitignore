@@ -2,12 +2,19 @@
 */*
 
 # Raw files and links
+!public_notice*.docx
+!drawings*.docx
+!public_notice*.doc
+!drawings*.doc
 !public_notice*.pdf
 !drawings*.pdf
 
+# Ignore pdfs generated from docs.
+*.doc.pdf
+
 # Md5sums
-!public_notice*.pdf.md5
-!drawings*.pdf.md5
+!public_notice*.md5
+!drawings*.md5
 
 # Text versions
 #!public_notice*.pdf.txt
