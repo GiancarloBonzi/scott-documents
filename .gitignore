@@ -11,6 +11,7 @@
 
 # Ignore pdfs generated from docs.
 *.doc.pdf
+*.docx.pdf
 
 # Md5sums
 !public_notice*.md5
